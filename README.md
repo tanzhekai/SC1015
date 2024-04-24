@@ -34,7 +34,7 @@ Although we are aware that these recommendations are common in air travel, learn
 ### Learning outcomes
 
 Data Collection:
-- Sourcing and Understanding multiple datasets
+  - Proper problem formulation with dataset
 
 Data Preparation:
 - Cleaning duplicate entries
@@ -45,8 +45,11 @@ EDA and Visualistion:
 - Use of visualisation tools
 
 Metrics and Models:
+- Deriving the best model by comparing metrics
+- Use and difference of multiple models
 
 Data-Driven Insights:
+- Interpreting the outcome of models with Feature Importances
 
 <br>
 
