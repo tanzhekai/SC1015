@@ -3,6 +3,14 @@ Groups Members:
 1. Tan Leong Jun Joseph (U2321339H)
 2. Tan Zhe Kai (U2322419A)
 
+## Problem Formulation (Motivation)
+- According to the United States Federal Aviation Administration (FAA), an on-time flight is defined as one that arrives or departs in no more than 15 mins after the scheduled time.
+- In 2019, the performance of US airlines in terms of timely arrivals was around 80%, with the average length of delay to be 50mins.
+- As flight delays are caused by a variety of factors such as the weather, the air traffic congestions and many more, accurate predictions on which factors causes flight delays the most, can not only improve operational efficiency but also contribute to the entire aviation industry and its travellers.
+
+## Problem Goal
+- To predict the greatest factors causing flight delays.
+
 ## Dataset from Kaggle
 Source: [2019 Airline Delays w/ Weather and Airport Detail](https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations)
 ![image](https://github.com/tanzhekai/SC1015/assets/160701256/438201ae-79f6-4100-8a72-0043e1274b79)
