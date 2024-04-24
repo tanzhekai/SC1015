@@ -15,7 +15,16 @@ Source: [2019 Airline Delays w/ Weather and Airport Detail](https://www.kaggle.c
 
 
 ### Data-driven Insights & Recommendations
-test
+Looking from the perspective of the 3 main groups of air travel, we can see that the variables we found can give insights on the best ways to reduce flight delays. 
+
+1. For travellers, as concurrent flights are high during peak holiday seasons, travellers may choose to instead travel during less popular months. 
+
+2. For the airlines, since the age of the plane is the most important variable that affects flight delays, the fleet management of airlines should prioritize using newer aircrafts to reduce maintenance time during peak seasons as well. 
+
+3. Airports should also interact and work closely with each other to understand and allow efficient flight scheduling to reduce congestion. 
+
+Although we are aware that these recommendations are common in air travel, learning how to apply models and predict flight delays by ourselves allow us to fully understand and solve our initial problem formulation in this project.
+
 <br>
 
 ---
