@@ -43,4 +43,4 @@ Although we are aware that these recommendations are common in air travel, learn
 - Slotnick, D. (2020, February 19). Why Your Airplane (Still) Might Be Delayed. The New York Times. Retrieved from https://www.nytimes.com/2020/02/19/business/air-travel-delays-airlines.html
 - A general architecture of XGBoost. (n.d.). In ResearchGate. Retrieved from https://www.researchgate.net/figure/A-general-architecture-of-XGBoost_fig3_335483097
 - Naive Bayes. (n.d.). In scikit-learn: Machine Learning in Python. Retrieved from https://scikit-learn.org/stable/modules/naive_bayes.html
-- Dancerworld60. (n.d.). Demystifying Naïve Bayes—Simple Yet Powerful for Text Classification. Medium. Retrieved from https://medium.com/@dancerworld60/demystifying-na%C3%AFve-bayes-simple-yet-pow erful-for-text-classification-ad92b14a5c7
+- Dancerworld60. (n.d.). Demystifying Naïve Bayes—Simple Yet Powerful for Text Classification. Medium. Retrieved from https://medium.com/@dancerworld60/demystifying-na%C3%AFve-bayes-simple-yet-powerful-for-text-classification-ad92b14a5c7
