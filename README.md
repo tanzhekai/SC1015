@@ -13,14 +13,19 @@ Groups Members:
 
 ## Dataset from Kaggle
 Source: [2019 Airline Delays w/ Weather and Airport Detail](https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations)
+
+_(Note: Datasets are not included into the Github repository as the file sizes are too large.)_
+<br>
+
 ![image](https://github.com/tanzhekai/SC1015/assets/160701256/438201ae-79f6-4100-8a72-0043e1274b79)
 
 ### Jupyter Notebooks:
-- [1.0 Data Cleaning]
-- [2.0 Exploratory Data Analysis & Visualization]
-- [3.0 Classification Models]
+- [1.0 Data Cleaning](https://github.com/tanzhekai/SC1015/blob/main/1.0%20Data%20Cleaning.ipynb)
+- [2.0 Exploratory Data Analysis & Visualization](https://github.com/tanzhekai/SC1015/blob/main/2.0%20Exploratory%20Data%20Analysis.ipynb)
+- [3.0 Classification Models](https://github.com/tanzhekai/SC1015/blob/main/3.0%20Classification%20Models.ipynb)
 
-
+### Slides:
+- [slides](https://github.com/tanzhekai/SC1015/blob/main/slides.pdf)
 
 ### Data-driven Insights & Recommendations
 Looking from the perspective of the 3 main groups of air travel, we can see that the variables we found can give insights on the best ways to reduce flight delays. 
